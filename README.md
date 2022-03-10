@@ -1,0 +1,2 @@
+# smphs
+my school
